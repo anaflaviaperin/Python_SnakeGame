@@ -40,6 +40,6 @@ O intuito é proporcionar um estudo prático das técnicas de monitoramento e an
 
 ## Aviso Legal
 
-Este software foi criado **para fins educacionais**. O autor deste projeto não se responsabiliza por qualquer uso indevido ou ilegal do software.  
+Este software foi criado **para fins educacionais**. Os autores deste projeto não se responsabilizam por qualquer uso indevido ou ilegal do software.  
 **Lembre-se:** Obtenha sempre consentimento explícito antes de coletar dados de qualquer usuário.
 
